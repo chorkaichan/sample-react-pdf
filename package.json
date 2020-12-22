@@ -8,9 +8,12 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@types/react-pdf": "^5.0.0",
+    "file-loader": "^6.2.0",
     "next": "latest",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-pdf": "^5.1.0"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
